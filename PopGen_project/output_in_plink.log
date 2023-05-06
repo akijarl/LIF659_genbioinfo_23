@@ -1,0 +1,16 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf sample.vcf
+	--chr 1
+	--out output_in_plink
+	--plink
+
+After filtering, kept 20 out of 20 Individuals
+Writing PLINK PED and MAP files ... 
+	PLINK: Only outputting biallelic loci.
+Done.
+After filtering, kept 19908 out of a possible 19908 Sites
+Run Time = 0.00 seconds
