@@ -1,0 +1,8 @@
+genotypename:    output_in_plink.ped
+snpname:         output_in_plink.map
+indivname:       output_in_plink.ped
+outputformat:    EIGENSTRAT
+genotypeoutname: example.eigenstratgeno
+snpoutname:      output_in_plink.snp
+indivoutname:    output_in_plink.ind
+familynames:     NO
