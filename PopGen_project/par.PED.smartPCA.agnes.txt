@@ -1,4 +1,4 @@
-genotypename:    output_in_plink.geno
+genotypename:    example.eigenstratgeno
 snpname:         output_in_plink.snp
 indivname:       output_in_plink.ind
 evecoutname:     output_in_plink.evec
