@@ -1,6 +1,6 @@
 genotypename:    output_in_plink.geno
 snpname:         output_in_plink.snp
-indivname:       putput_in_plink.ind
+indivname:       output_in_plink.ind
 evecoutname:     output_in_plink.evec
 evaloutname:     output_in_plink.eval
 numoutlieriter: 0 #Turn off outlier removal
